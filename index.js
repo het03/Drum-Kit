@@ -43,7 +43,6 @@ function makeSound(key) {
             kick.play();
             break;
         default:
-            // No need for console.log here.
             break;
     }
 }
